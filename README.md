@@ -48,7 +48,7 @@
 ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus&logoColor=blue)
 ![HTML5](https://img.shields.io/badge/-C-black?style=flat-square&logo=c&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Swift](https://img.shields.io/badge/-Swift-336791?style=flat-square&logo=swift)
+![Swift](https://img.shields.io/badge/-Swift-black?style=flat-square&logo=swift)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
   
   <h2 class="animated-element">Contact</h2>
