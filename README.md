@@ -11,36 +11,25 @@
 
   <h2 class="animated-element" align = center>I build and break AI stuff >_< & CyberSeck</h2>
 
-## 
-
 ## 🌐 Social
+[![Linkedin: [Your LinkedIn]](https://img.shields.io/badge/-Madhav_Kataria-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LinkedIn)](https://www.linkedin.com/in/vishal-yadav-9871451b0/)
+
+[![Website: [Your Website]](https://img.shields.io/badge/-madhavkataria__-purple?style=flat-square&logo=Instagram&logoColor=white&link=Instagram)](https://www.instagram.com/madhavkataria_)
+
+![GitHub VishalZ123](https://img.shields.io/github/followers/madhavkataria1010?label=follow&style=social)
+
+
 <ul>
-    <a href="https://www.instagram.com/madhavkataria_/">
-      <img src="https://img.shields.io/badge/-madhavkataria__-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.linkedin.com/in/aaditya-baranwal-1b1b3a1b0/" alt="Linkedin">
-    </a>
         <img src=assets/profile.png alt="Profile Picture" align = right height = 200>
     </ul>
-    <ul>
-    <a href="https://www.linkedin.com/in/madhavkataria/">
-        <img src="https://img.shields.io/badge/-Madhav%20kataria-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aaditya-baranwal-1b1b3a1b0/" alt="Linkedin">
-    </a>
-    </ul>
   
-  <h2 class="animated-element">Key Projects</h2>
-  <ul class="animated-element">
+## Key Projects
+  
 
-  </ul>
-  
-   <h2 class="animated-element">🔧  Tools & Technologies</h2>
-  <ul class="animated-element">
-    <li>
-      <img src="assets/gym.svg" alt="OpenAI Gym Logo" width="15"> OpenAI-Gym
-    </li>
-    <li>
-      <img src="assets/torch.svg" alt="PyTorch Logo" width="15"> PyTorch
-    </li>
-    <!-- Add more tools and technologies as needed -->
-  </ul>
+## 🔧  Tools & Technologies
+  * ![OpenAI](https://img.shields.io/badge/-OpenAI-black?style=flat-square&logo=OpenAI)
+
+  * ![PyTorch](https://img.shields.io/badge/-PyTorch-black?style=flat-square&logo=PyTorch)
 
 ## Languages
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
@@ -50,8 +39,9 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Swift](https://img.shields.io/badge/-Swift-black?style=flat-square&logo=swift)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+
+## Contact 
+Reach out to me at <u>b23ch1025@iitj.ac.in
   
-  <h2 class="animated-element">Contact</h2>
-  <p class="animated-element">Reach out to me at <u>b23ch1025@iitj.ac.in</u> </p>
 </body>
 </html>
