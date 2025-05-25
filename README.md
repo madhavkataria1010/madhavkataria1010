@@ -46,8 +46,11 @@
 ## Contact 
 Reach out to me at <u>b23ch1025@iitj.ac.in
 
-
-<img src="https://raw.githubusercontent.com/madhavkataria1010/madhavkataria1010/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/madhavkataria1010/madhavkataria1010/output/snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/madhavkataria1010/madhavkataria1010/output/snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/madhavkataria1010/madhavkataria1010/output/snake.svg" />
+</picture>
   
 </body>
 </html>
