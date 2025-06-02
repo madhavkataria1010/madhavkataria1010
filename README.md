@@ -1,7 +1,22 @@
 ![](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi%20there,%20I'm%20Madhav%20👋!&fontAlign=50&fontAlignY=40&color=gradient)
 
 <!DOCTYPE html>
-<html lang="en">
+
+## 👋 About Me
+
+- 😊 **Life revolves around:** Machine Learning, Development, and Deployment  
+- 🎓 **Currently pursuing:** B.Tech at IIT Jodhpur, India  
+- ✨ **Passion:** Exploring/creating cool tech projects across domains  
+- 🔄 **Roles:** Machine Learning Engineer / Data Engineer & Full Stack Developer + DevOps
+
+## 🛠️ Skills
+- **Software Development**: Git, Typescript, Node.js, Typescript, React.js, React Native, Next.js, Swift, SQL, MongoDB, Firebase, Java, XCode, PostgreSQL, Fast API, REST, GraphQL, Socket.io
+<!-- - **Embedded Systems**: Arduino and C++ -->
+- **Machine Learning, Data Science, and Robotics**: Pytorch, Numpy, Pandas, OpenCV, MATLAB, Neural Networks, Computer Vision, Reinforcement Learning, ROS
+
+<!-- - 🔐 Cybersecurity Enthusiast -->
+
+<!-- <html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -10,41 +25,71 @@
 
 
   <h2 class="animated-element" align = center>I build and break AI stuff >_< & CyberSeck</h2>
+<!-- 
+## 🌐 Social -->
 
-## 🌐 Social
-[![Linkedin: [Your LinkedIn]](https://img.shields.io/badge/-Madhav_Kataria-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LinkedIn)](https://www.linkedin.com/in/vishal-yadav-9871451b0/)
+<!-- ![GitHub VishalZ123](https://img.shields.io/github/followers/madhavkataria1010?label=follow&style=social) -->
 
-[![Website: [Your Website]](https://img.shields.io/badge/-madhavkataria__-purple?style=flat-square&logo=Instagram&logoColor=white&link=Instagram)](https://www.instagram.com/madhavkataria_)
+<h2 align="center">🚀 My Tech Stack 🚀</h2>
 
-![GitHub VishalZ123](https://img.shields.io/github/followers/madhavkataria1010?label=follow&style=social)
-
-
-<ul>
+<p align="center">
+  <marquee behavior="scroll" direction="left" scrollamount="6">
+    <!-- Row of individual skillicon images -->
+    <img src="https://skillicons.dev/icons?i=aws"    alt="AWS"      width="48" height="48" style="margin:0 10px;" />
+    <img src="https://skillicons.dev/icons?i=bash"   alt="Bash"     width="48" height="48" style="margin:0 10px;" />
+    <img src="https://skillicons.dev/icons?i=blender" alt="Blender"  width="48" height="48" style="margin:0 10px;" />
+    <img src="https://skillicons.dev/icons?i=c"      alt="C"        width="48" height="48" style="margin:0 10px;" />
+    <img src="https://skillicons.dev/icons?i=cpp"    alt="C++"      width="48" height="48" style="margin:0 10px;" />
+    <img src="https://skillicons.dev/icons?i=css"    alt="CSS"      width="48" height="48" style="margin:0 10px;" />
+    <img src="https://skillicons.dev/icons?i=django" alt="Django"   width="48" height="48" style="margin:0 10px;" />
+    <img src="https://skillicons.dev/icons?i=docker" alt="Docker"   width="48" height="48" style="margin:0 10px;" />
+    <img src="https://skillicons.dev/icons?i=figma"  alt="Figma"    width="48" height="48" style="margin:0 10px;" />
+    <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="48" height="48" style="margin:0 10px;" />
+    <img src="https://skillicons.dev/icons?i=flask"  alt="Flask"    width="48" height="48" style="margin:0 10px;" />
+    <img src="https://skillicons.dev/icons?i=git"    alt="Git"      width="48" height="48" style="margin:0 10px;" />
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub"   width="48" height="48" style="margin:0 10px;" />
+    <img src="https://skillicons.dev/icons?i=html"   alt="HTML5"    width="48" height="48" style="margin:0 10px;" />
+    <img src="https://skillicons.dev/icons?i=js"     alt="JavaScript" width="48" height="48" style="margin:0 10px;" />
+    <img src="https://skillicons.dev/icons?i=linux"  alt="Linux"    width="48" height="48" style="margin:0 10px;" />
+    <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" width="48" height="48" style="margin:0 10px;" />
+    <img src="https://skillicons.dev/icons?i=mongo"  alt="MongoDB"  width="48" height="48" style="margin:0 10px;" />
+    <img src="https://skillicons.dev/icons?i=mysql"  alt="MySQL"    width="48" height="48" style="margin:0 10px;" />
+    <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js"  width="48" height="48" style="margin:0 10px;" />
+    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js"  width="48" height="48" style="margin:0 10px;" />
+    <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="48" height="48" style="margin:0 10px;" />
+    <img src="https://skillicons.dev/icons?i=py"     alt="Python"   width="48" height="48" style="margin:0 10px;" />
+    <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch"  width="48" height="48" style="margin:0 10px;" />
+    <img src="https://skillicons.dev/icons?i=react"  alt="React"    width="48" height="48" style="margin:0 10px;" />
+    <img src="https://skillicons.dev/icons?i=redis"  alt="Redis"    width="48" height="48" style="margin:0 10px;" />
+    <img src="https://skillicons.dev/icons?i=redux"  alt="Redux"    width="48" height="48" style="margin:0 10px;" />
+    <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind"  width="48" height="48" style="margin:0 10px;" />
+    <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="48" height="48" style="margin:0 10px;" />
+    <img src="https://skillicons.dev/icons?i=threejs" alt="Three.js" width="48" height="48" style="margin:0 10px;" />
+    <img src="https://skillicons.dev/icons?i=ts"     alt="TypeScript" width="48" height="48" style="margin:0 10px;" />
+    <img src="https://skillicons.dev/icons?i=gcp"    alt="GCP"      width="48" height="48" style="margin:0 10px;" />
+  </marquee>
+</p>
+<!-- <ul>
         <img src=assets/profile.png alt="Profile Picture" align = right height = 200>
     </ul>
+   -->
+<!-- ## Key Projects -->
   
-## Key Projects
-  
 
-## 🔧  Tools & Technologies
-  * ![OpenAI](https://img.shields.io/badge/-OpenAI-black?style=flat-square&logo=OpenAI)
-
-  * ![PyTorch](https://img.shields.io/badge/-PyTorch-black?style=flat-square&logo=PyTorch)
-
-  * ![Tensorflow](https://img.shields.io/badge/-Tensorflow-black?style=flat-square&logo=Tensorflow)
+<!-- ## 🔧  Tools & Technologies -->
 
 
-## Languages
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=E34F26)
-![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus&logoColor=blue)
-![HTML5](https://img.shields.io/badge/-C-black?style=flat-square&logo=c&logoColor=blue)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Swift](https://img.shields.io/badge/-Swift-black?style=flat-square&logo=swift)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
 ## Contact 
-Reach out to me at <u>b23ch1025@iitj.ac.in
+
+<p align="left" >
+<a href="https://www.linkedin.com/in/madhavkataria/" target="blank"><img align="center" src="./assets/linkedin.svg" alt="linkedin" height="30" width="60" /></a>
+<a href="mailto:b23ch1025@iitj.ac.in" target="blank"><img align="center" src="./assets/mail.png" alt="Email" height="" width="40" /></a>
+<a href="https://x.com/madhav_kataria" target="blank"><img align="center" src="./assets/twitter.svg" alt="Twitter" height="35" width="60" /></a>
+</p>
+<br>
+
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/madhavkataria1010/madhavkataria1010/output/github-snake-dark.svg" />
