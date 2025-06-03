@@ -10,9 +10,9 @@
 - 🔄 **Roles:** Machine Learning Engineer / Data Engineer & Full Stack Developer + DevOps
 
 ## 🛠️ Skills
-- **Software Development**: Git, Typescript, Node.js, Typescript, React.js, React Native, Next.js, Swift, SQL, MongoDB, Firebase, Java, XCode, PostgreSQL, Fast API, REST, GraphQL, Socket.io
+- **Software Development**: Git, Typescript, Node.js, Typescript, React.js, React Native, Next.js, Electron.js, Swift, SQL, MongoDB, Firebase, Java, XCode, PostgreSQL, Fast API, REST
 <!-- - **Embedded Systems**: Arduino and C++ -->
-- **Machine Learning, Data Science, and Robotics**: Pytorch, Numpy, Pandas, OpenCV, MATLAB, Neural Networks, Computer Vision, Reinforcement Learning, ROS
+- **Machine Learning, Data Science, and Robotics**: Pytorch, Numpy, Pandas, OpenCV, Neural Networks, Computer Vision, Reinforcement Learning, ROS2
 
 <!-- - 🔐 Cybersecurity Enthusiast -->
 
