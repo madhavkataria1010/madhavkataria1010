@@ -10,19 +10,9 @@
 - 🔄 **Roles:** Machine Learning Engineer / Data Engineer & Full Stack Developer + DevOps
 
 ## 🛠️ Skills
+- **Machine Learning, Data Science, and Robotics**: Pytorch, Numpy, Pandas, OpenCV, Neural Networks, Computer Vision, Reinforcement Learning, ROS2
 - **Software Development**: Git, Typescript, Node.js, Typescript, React.js, React Native, Next.js, Electron.js, Swift, SQL, MongoDB, Firebase, Java, XCode, PostgreSQL, Fast API, REST
 <!-- - **Embedded Systems**: Arduino and C++ -->
-- **Machine Learning, Data Science, and Robotics**: Pytorch, Numpy, Pandas, OpenCV, Neural Networks, Computer Vision, Reinforcement Learning, ROS2
-
-<!-- - 🔐 Cybersecurity Enthusiast -->
-
-<!-- <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
-<body>
-
 
   <h2 class="animated-element" align = center>I build and break AI stuff >_< & CyberSeck</h2>
 <!-- 
@@ -37,13 +27,11 @@
     <!-- Row of individual skillicon images -->
     <img src="https://skillicons.dev/icons?i=aws"    alt="AWS"      width="48" height="48" style="margin:0 10px;" />
     <img src="https://skillicons.dev/icons?i=bash"   alt="Bash"     width="48" height="48" style="margin:0 10px;" />
-    <img src="https://skillicons.dev/icons?i=blender" alt="Blender"  width="48" height="48" style="margin:0 10px;" />
     <img src="https://skillicons.dev/icons?i=c"      alt="C"        width="48" height="48" style="margin:0 10px;" />
     <img src="https://skillicons.dev/icons?i=cpp"    alt="C++"      width="48" height="48" style="margin:0 10px;" />
     <img src="https://skillicons.dev/icons?i=css"    alt="CSS"      width="48" height="48" style="margin:0 10px;" />
     <img src="https://skillicons.dev/icons?i=django" alt="Django"   width="48" height="48" style="margin:0 10px;" />
     <img src="https://skillicons.dev/icons?i=docker" alt="Docker"   width="48" height="48" style="margin:0 10px;" />
-    <img src="https://skillicons.dev/icons?i=figma"  alt="Figma"    width="48" height="48" style="margin:0 10px;" />
     <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="48" height="48" style="margin:0 10px;" />
     <img src="https://skillicons.dev/icons?i=flask"  alt="Flask"    width="48" height="48" style="margin:0 10px;" />
     <img src="https://skillicons.dev/icons?i=git"    alt="Git"      width="48" height="48" style="margin:0 10px;" />
@@ -61,7 +49,6 @@
     <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch"  width="48" height="48" style="margin:0 10px;" />
     <img src="https://skillicons.dev/icons?i=react"  alt="React"    width="48" height="48" style="margin:0 10px;" />
     <img src="https://skillicons.dev/icons?i=redis"  alt="Redis"    width="48" height="48" style="margin:0 10px;" />
-    <img src="https://skillicons.dev/icons?i=redux"  alt="Redux"    width="48" height="48" style="margin:0 10px;" />
     <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind"  width="48" height="48" style="margin:0 10px;" />
     <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="48" height="48" style="margin:0 10px;" />
     <img src="https://skillicons.dev/icons?i=threejs" alt="Three.js" width="48" height="48" style="margin:0 10px;" />
