@@ -20,42 +20,6 @@
 
 <!-- ![GitHub VishalZ123](https://img.shields.io/github/followers/madhavkataria1010?label=follow&style=social) -->
 
-<h2 align="center">🚀 My Tech Stack 🚀</h2>
-
-<p align="center">
-  <marquee behavior="scroll" direction="left" scrollamount="6">
-    <!-- Row of individual skillicon images -->
-    <img src="https://skillicons.dev/icons?i=aws"    alt="AWS"      width="48" height="48" style="margin:0 10px;" />
-    <img src="https://skillicons.dev/icons?i=bash"   alt="Bash"     width="48" height="48" style="margin:0 10px;" />
-    <img src="https://skillicons.dev/icons?i=c"      alt="C"        width="48" height="48" style="margin:0 10px;" />
-    <img src="https://skillicons.dev/icons?i=cpp"    alt="C++"      width="48" height="48" style="margin:0 10px;" />
-    <img src="https://skillicons.dev/icons?i=css"    alt="CSS"      width="48" height="48" style="margin:0 10px;" />
-    <img src="https://skillicons.dev/icons?i=django" alt="Django"   width="48" height="48" style="margin:0 10px;" />
-    <img src="https://skillicons.dev/icons?i=docker" alt="Docker"   width="48" height="48" style="margin:0 10px;" />
-    <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="48" height="48" style="margin:0 10px;" />
-    <img src="https://skillicons.dev/icons?i=flask"  alt="Flask"    width="48" height="48" style="margin:0 10px;" />
-    <img src="https://skillicons.dev/icons?i=git"    alt="Git"      width="48" height="48" style="margin:0 10px;" />
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub"   width="48" height="48" style="margin:0 10px;" />
-    <img src="https://skillicons.dev/icons?i=html"   alt="HTML5"    width="48" height="48" style="margin:0 10px;" />
-    <img src="https://skillicons.dev/icons?i=js"     alt="JavaScript" width="48" height="48" style="margin:0 10px;" />
-    <img src="https://skillicons.dev/icons?i=linux"  alt="Linux"    width="48" height="48" style="margin:0 10px;" />
-    <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" width="48" height="48" style="margin:0 10px;" />
-    <img src="https://skillicons.dev/icons?i=mongo"  alt="MongoDB"  width="48" height="48" style="margin:0 10px;" />
-    <img src="https://skillicons.dev/icons?i=mysql"  alt="MySQL"    width="48" height="48" style="margin:0 10px;" />
-    <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js"  width="48" height="48" style="margin:0 10px;" />
-    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js"  width="48" height="48" style="margin:0 10px;" />
-    <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="48" height="48" style="margin:0 10px;" />
-    <img src="https://skillicons.dev/icons?i=py"     alt="Python"   width="48" height="48" style="margin:0 10px;" />
-    <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch"  width="48" height="48" style="margin:0 10px;" />
-    <img src="https://skillicons.dev/icons?i=react"  alt="React"    width="48" height="48" style="margin:0 10px;" />
-    <img src="https://skillicons.dev/icons?i=redis"  alt="Redis"    width="48" height="48" style="margin:0 10px;" />
-    <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind"  width="48" height="48" style="margin:0 10px;" />
-    <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="48" height="48" style="margin:0 10px;" />
-    <img src="https://skillicons.dev/icons?i=threejs" alt="Three.js" width="48" height="48" style="margin:0 10px;" />
-    <img src="https://skillicons.dev/icons?i=ts"     alt="TypeScript" width="48" height="48" style="margin:0 10px;" />
-    <img src="https://skillicons.dev/icons?i=gcp"    alt="GCP"      width="48" height="48" style="margin:0 10px;" />
-  </marquee>
-</p>
 <!-- <ul>
         <img src=assets/profile.png alt="Profile Picture" align = right height = 200>
     </ul>
