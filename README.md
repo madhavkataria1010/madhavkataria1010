@@ -15,24 +15,11 @@
 <!-- - **Embedded Systems**: Arduino and C++ -->
 
   <h2 class="animated-element" align = center>I build and break AI stuff >_< & CyberSeck</h2>
-<!-- 
-## 🌐 Social -->
 
-<!-- ![GitHub VishalZ123](https://img.shields.io/github/followers/madhavkataria1010?label=follow&style=social) -->
-
-<!-- <ul>
-        <img src=assets/profile.png alt="Profile Picture" align = right height = 200>
-    </ul>
-   -->
-<!-- ## Key Projects -->
-  
-
-<!-- ## 🔧  Tools & Technologies -->
 
 
 
 ## Contact 
-
 <p align="left" >
 <a href="https://www.linkedin.com/in/madhavkataria/" target="blank"><img align="center" src="./assets/linkedin.svg" alt="linkedin" height="30" width="60" /></a>
 <a href="mailto:b23ch1025@iitj.ac.in" target="blank"><img align="center" src="./assets/mail.png" alt="Email" height="" width="40" /></a>
